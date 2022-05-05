@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/Christian Bratli/Dropbox (Personal)/prosjekt/bitrafElektronikkWorkshop/ul_ESP32-S2-MINI-1-N4/KiCAD/2022-03-18_18-31-14/footprints.pretty")(options "")(descr ""))
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "C:/Users/Christian Bratli/Dropbox (Personal)/prosjekt/bitrafElektronikkWorkshop/USB-C-Connectors-master/USB-C-Connectors-master/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+)
